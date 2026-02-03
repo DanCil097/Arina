@@ -75,7 +75,7 @@ function App() {
                 </>
             ) : (
                 <>
-                    <h2 className="title">Ариша,ты будешь моим</h2>
+                    <h2 className="title">Ты будешь моим</h2>
                     <h1 className="valentine">Валентином?</h1>
                     <button
                         style={stylesBtnAgree}
